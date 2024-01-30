@@ -1,0 +1,33 @@
+{
+    "scientists": [
+      {
+        "name": "Albert Einstein",
+        "periodOfLife": "1879-1955",
+        "work": "Theory of Relativity, Photoelectric Effect",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+        "alt":"albert-einstein"
+      },
+      {
+        "name": "Marie Curie",
+        "periodOfLife": "1867-1934",
+        "work": "Radioactivity, Polonium, Radium",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/220px-Marie_Curie_c._1920s.jpg",
+        "alt":"marie-curie"
+      },
+      {
+        "name": "Isaac Newton",
+        "periodOfLife": "1643-1727",
+        "work": "Laws of Motion, Universal Gravitation",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/220px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+        "alt":"isaac-newton"
+      },
+      {
+        "name": "Ellen H. Richards",
+        "periodOfLife": "1842-1911",
+        "work": "Sanitary chemistry",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ellen_Swallow_Richards_%282%29.jpg/220px-Ellen_Swallow_Richards_%282%29.jpg",
+        "alt":"ellen-richards"
+      }
+    ]
+  }
+  
