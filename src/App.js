@@ -1,16 +1,17 @@
 
 import './App.css';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <header className="App-header">
-        
-        <p>
-          Scientists
-        </p>
-        
+        <h1>Scientists</h1>
       </header>
+      <Footer/>
+      
     </div>
   );
 }

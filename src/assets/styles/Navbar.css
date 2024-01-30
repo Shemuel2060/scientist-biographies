@@ -1,0 +1,42 @@
+body{
+    background-color: #000;
+}
+.logo{
+    color:#333;
+}
+.nav-bar{
+    background-color:#0e2423;
+    color:#fff;
+    margin:0 0 20px 0;
+    
+    display: flex;
+    align-content: center;
+    height:100px;
+    padding:20px 10px 10px 80px;
+    
+}
+h3{
+    display: inline;
+    margin: 0;
+    margin-right: 300px;
+}
+.nav-links{
+    text-decoration: none;
+    margin-right:30px;
+}
+.links a {
+    color: #fff;
+    text-decoration: none;
+}
+  
+.links a:hover {
+    color:rgb(53, 10, 245);
+}
+.links,h3{
+    margin-top:20px;
+}
+h3{
+    color:#fff;
+}
+
+
