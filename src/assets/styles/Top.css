@@ -1,0 +1,10 @@
+
+.top-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 300px 50px 100px;
+    align-items: center;
+}
+.heading{
+    color:#fff;
+}
