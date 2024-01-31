@@ -1,6 +1,7 @@
 {
     "scientists": [
       {
+        "id":1,
         "name": "Albert Einstein",
         "periodOfLife": "1879-1955",
         "work": "Theory of Relativity, Photoelectric Effect",
@@ -8,6 +9,7 @@
         "alt":"albert-einstein"
       },
       {
+        "id":2,
         "name": "Marie Curie",
         "periodOfLife": "1867-1934",
         "work": "Radioactivity, Polonium, Radium",
@@ -15,6 +17,7 @@
         "alt":"marie-curie"
       },
       {
+        "id":3,
         "name": "Isaac Newton",
         "periodOfLife": "1643-1727",
         "work": "Laws of Motion, Universal Gravitation",
@@ -22,11 +25,21 @@
         "alt":"isaac-newton"
       },
       {
+        "id":4,
         "name": "Ellen H. Richards",
         "periodOfLife": "1842-1911",
         "work": "Sanitary chemistry",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ellen_Swallow_Richards_%282%29.jpg/220px-Ellen_Swallow_Richards_%282%29.jpg",
         "alt":"ellen-richards"
+      }
+      ,
+      {
+        "id":5,
+        "name": "St. Elmo Brady",
+        "periodOfLife": "1884-1966",
+        "work": "Chemist & Professor",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Brady_stelmo.jpg",
+        "alt":"elmo-brady"
       }
     ]
   }
