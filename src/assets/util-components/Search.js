@@ -1,13 +1,20 @@
 
-
+import { useState } from 'react';
 
 import '../styles/Search.css';
 
 const Search = ()=>{
+    const [name,setName] = useState('')
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        setName('') // empty the field after submitting.
+        console.log("Name searched: ", name) // testing
+    }
     return(
         <div>
-           <form>
-                <input placeholder="search"/>
+           <form onSubmit={handleSubmit}>
+                <input placeholder="search by name(s)" value={name} onChange={
+                    e=> setName(e.target.value)}/>
            </form>
         </div>
     )

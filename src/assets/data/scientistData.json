@@ -1,6 +1,7 @@
 {
     "scientists": [
       {
+        "id":1,
         "name": "Albert Einstein",
         "periodOfLife": "1879-1955",
         "work": "Theory of Relativity, Photoelectric Effect",
@@ -8,6 +9,7 @@
         "alt":"albert-einstein"
       },
       {
+        "id":2,
         "name": "Marie Curie",
         "periodOfLife": "1867-1934",
         "work": "Radioactivity, Polonium, Radium",
@@ -15,6 +17,7 @@
         "alt":"marie-curie"
       },
       {
+        "id":3,
         "name": "Isaac Newton",
         "periodOfLife": "1643-1727",
         "work": "Laws of Motion, Universal Gravitation",
@@ -22,11 +25,124 @@
         "alt":"isaac-newton"
       },
       {
+        "id":4,
         "name": "Ellen H. Richards",
         "periodOfLife": "1842-1911",
         "work": "Sanitary chemistry",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ellen_Swallow_Richards_%282%29.jpg/220px-Ellen_Swallow_Richards_%282%29.jpg",
         "alt":"ellen-richards"
+      },
+      {
+        "id":5,
+        "name": "St. Elmo Brady",
+        "periodOfLife": "1884-1966",
+        "work": "Chemist & Professor",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Brady_stelmo.jpg",
+        "alt":"elmo-brady"
+      },
+      {
+        "id":6,
+        "name": "Jons Jakob Berzelius",
+        "periodOfLife": "1779-1848",
+        "work": "Discovered silicon, selenium, thorium. Contributed to atomic weights",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/J%C3%B6ns_Jacob_Berzelius_x_Johan_Way.jpg/220px-J%C3%B6ns_Jacob_Berzelius_x_Johan_Way.jpg",
+        "alt":"jons-jakobs"
+      },
+      {
+        "id":7,
+        "name": "Stanislao Cannizzaro",
+        "periodOfLife": "1826-1910",
+        "work": "Cannizzaro reaction",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Stanislao_Cannizzaro_01_%28cropped%29.jpg/220px-Stanislao_Cannizzaro_01_%28cropped%29.jpg",
+        "alt":"stanislao-cannizzaro"
+      },
+      {
+        "id":8,
+        "name": "James Prescott Joule",
+        "periodOfLife": "1818-1889",
+        "work": "First law of thermodynamics & mechanical equivalent of heat",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Joule_James_sitting.jpg/200px-Joule_James_sitting.jpg",
+        "alt":"james-joule"
+      },
+      {
+        "id":9,
+        "name": "Ernest Rutherford",
+        "periodOfLife": "1871-1937",
+        "work": "Discovery of alpha & beta radioactivity; atomic nucleus and the proton",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/220px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
+        "alt":"ernest-rutherford"
+      },
+      {
+        "id":10,
+        "name": "Wolfgang Pauli",
+        "periodOfLife": "1900-1958",
+        "work": "Pauli exclusion principle, Pauli effect, Pauli equation & Quantum field theory",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pauli.jpg/220px-Pauli.jpg",
+        "alt":"wolfgang-pauli"
+      },
+      {
+        "id":11,
+        "name": "Henry Gwyn-Jeffreys Moseley",
+        "periodOfLife": "1887-1915",
+        "work": "Atomic number & Moseley's laws",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Henry_Moseley_%281887-1915%29.jpg/220px-Henry_Moseley_%281887-1915%29.jpg",
+        "alt":"Gwyn-Jeffreys"
+      },
+      {
+        "id":12,
+        "name": "Dmitri Ivanovich Mendelev",
+        "periodOfLife": "1834-1907",
+        "work": "Formulating the periodic table",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%EB%93%9C%EB%AF%B8%ED%8A%B8%EB%A6%AC_%EB%A9%98%EB%8D%B8%EB%A0%88%EC%98%88%ED%94%84.jpg/220px-%EB%93%9C%EB%AF%B8%ED%8A%B8%EB%A6%AC_%EB%A9%98%EB%8D%B8%EB%A0%88%EC%98%88%ED%94%84.jpg",
+        "alt":"dmitri-mendelev"
+      },
+      {
+        "id":13,
+        "name": "Lise Meitner",
+        "periodOfLife": "1878-1968",
+        "work": "Discovery of protactinium & nuclear fission",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lise_Meitner_%281878-1968%29%2C_lecturing_at_Catholic_University%2C_Washington%2C_D.C.%2C_1946.jpg/220px-Lise_Meitner_%281878-1968%29%2C_lecturing_at_Catholic_University%2C_Washington%2C_D.C.%2C_1946.jpg",
+        "alt":"lise-meitner"
+      },
+      {
+        "id":14,
+        "name": "Ida Tacke Noddack",
+        "periodOfLife": "1896-1978",
+        "work": "Discovery of rhenium & nuclear fission",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ida_Noddack-Tacke.png/220px-Ida_Noddack-Tacke.png",
+        "alt":"ida-noddack"
+      },
+      {
+        "id":15,
+        "name": "Friedrich August Kekule",
+        "periodOfLife": "1829-1896",
+        "work": "Chemical structure, tetravalence of carbon & structure of benzene",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frkekul%C3%A9.jpg/220px-Frkekul%C3%A9.jpg",
+        "alt":"friedrich-kekule"
+      },
+      {
+        "id":16,
+        "name": "Jokichi Takamine",
+        "periodOfLife": "1854-1922",
+        "work": "Isolating and purifying adrenaline & isolating takadiastase",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jokichi_Takamine.jpg/220px-Jokichi_Takamine.jpg",
+        "alt":"jokichi-takamine"
+      },
+      {
+        "id":17,
+        "name": "George Washington Carver",
+        "periodOfLife": "1864-1943",
+        "work": "Value addition to sweet potatoes and peanuts - peanut butter discovery",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/220px-George_Washington_Carver_c1910_-_Restoration.jpg",
+        "alt":"george-carver"
+      },
+      {
+        "id":18,
+        "name": "Dorothy Crowfoot Hodgin",
+        "periodOfLife": "1910-1994",
+        "work": "Development of protein crystallography & structure of insulin and vitamin B12",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Dorothy_Hodgkin_Nobel.jpg/220px-Dorothy_Hodgkin_Nobel.jpg",
+        "alt":"dorothy-hodgin"
       }
     ]
   }
