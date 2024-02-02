@@ -13,7 +13,7 @@ const Search = ()=>{
     return(
         <div>
            <form onSubmit={handleSubmit}>
-                <input placeholder="search" value={name} onChange={
+                <input placeholder="search by name(s)" value={name} onChange={
                     e=> setName(e.target.value)}/>
            </form>
         </div>
