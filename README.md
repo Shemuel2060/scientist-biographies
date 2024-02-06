@@ -52,7 +52,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Demo
 
 ### social links and search input area
-The top part of the app has links to my social sites and also the search area.[search-area](top.png)
+The top part of the app has links to my social sites and also the search area.   
+![search-area](top.png)
 
 ### scientists listed 
 
