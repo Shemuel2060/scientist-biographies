@@ -143,6 +143,70 @@
         "work": "Development of protein crystallography & structure of insulin and vitamin B12",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Dorothy_Hodgkin_Nobel.jpg/220px-Dorothy_Hodgkin_Nobel.jpg",
         "alt":"dorothy-hodgin"
+      },
+      {
+        "id":19,
+        "name": "Norbert Rillieux",
+        "periodOfLife": "1806-1894",
+        "work": "Improvement in sugar crystallization and refining processes.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/NorbertRillieux.jpg/220px-NorbertRillieux.jpg",
+        "alt":"norbert-rillieux"
+      },
+      {
+        "id":20,
+        "name": "Robert Boyle",
+        "periodOfLife": "1627-1691",
+        "work": "Boyle's law; distinction between an element and compound and reaction analyses",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/220px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+        "alt":"robert-boyle"
+      },
+      {
+        "id":21,
+        "name": "Joseph Louis Gay-Lussac",
+        "periodOfLife": "1778-1850",
+        "work": "Gay-Lussac's law",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gaylussac.jpg/225px-Gaylussac.jpg",
+        "alt":"gay-lussac"
+      },
+      {
+        "id":22,
+        "name": "Amadeo Avogadro",
+        "periodOfLife": "1776-1836",
+        "work": "avogadro's law and avogadro constant",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amadeo_Avogadro.png/220px-Amadeo_Avogadro.png",
+        "alt":"amadeo-avogadro"
+      },
+      {
+        "id":23,
+        "name": "Josiah Willard Gibbs",
+        "periodOfLife": "1839-1903",
+        "work": "Chemical thermodynamics and chemical potential",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Josiah_Willard_Gibbs_-from_MMS-.jpg/220px-Josiah_Willard_Gibbs_-from_MMS-.jpg",
+        "alt":"josiah-gibbs"
+      },
+      {
+        "id":24,
+        "name": "Agnes Pockels",
+        "periodOfLife": "1862-1935",
+        "work": "Pioneered surface science",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Agnes_Pockels_ca1922.jpg/150px-Agnes_Pockels_ca1922.jpg",
+        "alt":"agnes-pockels"
+      },
+      {
+        "id":25,
+        "name": "Thomas Graham",
+        "periodOfLife": "1805-1869",
+        "work": "Graham's law & Dialysis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Thomas_Graham_Litho.JPG/220px-Thomas_Graham_Litho.JPG",
+        "alt":"thomas-graham"
+      },
+      {
+        "id":26,
+        "name": "Henry Louis Le Chatelier",
+        "periodOfLife": "1850-1936",
+        "work": "Le Chatelier's principle",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lechatelier.jpg/150px-Lechatelier.jpg",
+        "alt":"louis-lechatelier"
       }
     ]
   }
